@@ -1,7 +1,6 @@
 from fastapi import FastAPI
+from app.api.routes.products import router as products_router
 
 app = FastAPI()
 
-@app.get("/")
-def init():
-    return "hello world !"
+app.include_router(products_router)

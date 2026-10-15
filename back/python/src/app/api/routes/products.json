@@ -1,0 +1,110 @@
+[
+  {
+    "name": "Bonnet côtelé unisexe",
+    "slug": "bonnet-cotele-unisexe",
+    "description": "Bonnet en maille côtelée, doux et extensible. Taille unique, convient aux hommes et aux femmes.",
+    "category_id": 1,
+    "supplier_url": "https://fr.aliexpress.com/item/1005008471926293.html",
+    "variants": [
+      {
+        "sku": "BON-COT-NOIR",
+        "color": "Noir",
+        "size": "Unique",
+        "price_cents": 1490,
+        "supplier_price_cents": 369,
+        "image_url": null,
+        "is_available": true
+      },
+      {
+        "sku": "BON-COT-GRIS",
+        "color": "Gris",
+        "size": "Unique",
+        "price_cents": 1490,
+        "supplier_price_cents": 369,
+        "image_url": null,
+        "is_available": true
+      },
+      {
+        "sku": "BON-COT-BEIGE",
+        "color": "Beige",
+        "size": "Unique",
+        "price_cents": 1490,
+        "supplier_price_cents": 369,
+        "image_url": null,
+        "is_available": true
+      },
+      {
+        "sku": "BON-COT-BORDEAUX",
+        "color": "Bordeaux",
+        "size": "Unique",
+        "price_cents": 1490,
+        "supplier_price_cents": 369,
+        "image_url": null,
+        "is_available": true
+      }
+    ]
+  },
+  {
+    "name": "Bonnet à revers doublé polaire",
+    "slug": "bonnet-revers-double-polaire",
+    "description": "Bonnet à revers avec doublure polaire pour les grands froids. Taille unique.",
+    "category_id": 1,
+    "supplier_url": null,
+    "variants": [
+      {
+        "sku": "BON-POL-NOIR",
+        "color": "Noir",
+        "size": "Unique",
+        "price_cents": 1790,
+        "supplier_price_cents": 450,
+        "image_url": null,
+        "is_available": true
+      },
+      {
+        "sku": "BON-POL-MARINE",
+        "color": "Bleu marine",
+        "size": "Unique",
+        "price_cents": 1790,
+        "supplier_price_cents": 450,
+        "image_url": null,
+        "is_available": true
+      },
+      {
+        "sku": "BON-POL-KAKI",
+        "color": "Kaki",
+        "size": "Unique",
+        "price_cents": 1790,
+        "supplier_price_cents": 450,
+        "image_url": null,
+        "is_available": false
+      }
+    ]
+  },
+  {
+    "name": "Bonnet pompon en maille torsadée",
+    "slug": "bonnet-pompon-maille-torsadee",
+    "description": "Bonnet en maille torsadée avec pompon amovible. Taille unique.",
+    "category_id": 1,
+    "supplier_url": null,
+    "variants": [
+      {
+        "sku": "BON-POM-ECRU",
+        "color": "Écru",
+        "size": "Unique",
+        "price_cents": 1990,
+        "supplier_price_cents": 520,
+        "image_url": null,
+        "is_available": true
+      },
+      {
+        "sku": "BON-POM-ROSE",
+        "color": "Rose poudré",
+        "size": "Unique",
+        "price_cents": 1990,
+        "supplier_price_cents": 520,
+        "image_url": null,
+        "is_available": true
+      }
+    ]
+  }
+]
