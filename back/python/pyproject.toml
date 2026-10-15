@@ -15,15 +15,17 @@ dependencies = [
     "uvicorn>=0.54.0",
 ]
 
+[tool.uv.build-backend]
+module-name = "app"
+
 [project.scripts]
-app = "app:main"
+app = "app.main:app"
 
 [build-system]
 requires = ["uv_build>=0.12.19,<0.13.0"]
 build-backend = "uv_build"
 
-[tool.uv.build-backend]
-module-name = "app"
+
 
 [tool.fastapi]
 entrypoint = "app.main:app"
