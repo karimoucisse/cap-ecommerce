@@ -1,1 +1,1 @@
-# next-commerce
+# cap-ecommerce
